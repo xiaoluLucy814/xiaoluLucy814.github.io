@@ -1,2 +1,2 @@
-# xiaoluLucy.github.io
+# https://xiaolulucy.github.io
 Personal website
